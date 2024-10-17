@@ -14,6 +14,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="65px"/> - 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="65px"/> - 
 <img src="https://blog.latitude.so/content/images/size/w1000/2024/05/7-best-chart-libraries-2024-8.png" height="65px"/> - 
+<img src="https://static-00.iconduck.com/assets.00/expo-icon-512x462-3a87htea.png" height="65px"/> - 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" height="65px"/> - 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" height="65px"/>
 
